@@ -71,4 +71,7 @@
     <Build Include="dbo\Tables\tblMovieGenres.sql" />
     <Build Include="dbo\Tables\tblCustomers.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Publish\Vidly.Database.publish.xml" />
+  </ItemGroup>
 </Project>
