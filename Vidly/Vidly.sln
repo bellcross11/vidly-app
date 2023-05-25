@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Vidly.Database", "Vidly.Database\Vidly.Database.sqlproj", "{DE38E0A6-4558-4B42-B833-A4A11CC2204C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE38E0A6-4558-4B42-B833-A4A11CC2204C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E80551FE-01AB-4F1C-A0F2-6F5EBC16EC82}
+	EndGlobalSection
+EndGlobal
